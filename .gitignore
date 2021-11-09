@@ -1,9 +1,0 @@
-__pycache__/
-.vscode/
-.idea/
-Songs/
-*.session
-*.session-journal
-*.log
-*.env
-fly.toml
