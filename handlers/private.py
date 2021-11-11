@@ -35,7 +35,7 @@ HEY👋 I AM A 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 �
 
 @Client.on_message(filters.command("hexor") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝗻𝗹𝗶𝗻𝗲 𝗡𝗼𝘄\n🌠𝗛𝗲𝘅𝗼𝗿 𝗫𝗗 <3**""",
+      await message.reply_text("""**𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝗻𝗹𝗶𝗻𝗲 𝗡𝗼𝘄\n🌠Lallu_tg <3**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
