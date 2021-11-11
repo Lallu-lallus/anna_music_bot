@@ -22,9 +22,7 @@ HEY👋 I AM A 𝗔𝗱𝘃𝗮𝗻𝗰𝗲 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 �
                         "❰updates❱", url="https://t.me/team_annaben"
                     ),
                     InlineKeyboardButton(
-                        "❰Group❱", url="CODES ONLY - TOPICS"
-CHANNEL @EDIT_REPO_CHANNEL
-https://t.me/EDIT_REPO"
+                        "❰Group❱", url="https://t.me/EDIT_REPO"
                     )
                 ],[ 
                     InlineKeyboardButton(
